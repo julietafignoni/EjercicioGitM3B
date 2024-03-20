@@ -7,6 +7,8 @@ En este ejercicio, simularemos un flujo de trabajo normal utilizando ramificacio
 Primero, asegúrate de tener Git instalado en tu sistema.
 
 Hacer un fork de este repositorio.
+![image](https://github.com/benjaneri/EjercicioGitM3B/assets/89653970/c84d002b-9c35-465b-a419-54e705e17966)
+
 
 Luego, clonar el fork del repositorio en tu máquina local para comenzar a trabajar.
 
